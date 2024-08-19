@@ -14,7 +14,7 @@ used for any project with a compatible format.
 
 From source:
 
-    git clone https://github.com/puppetlabs/quest.git
+    git clone https://github.com/cjswart/quest.git
     cd quest
     gem build quest.gemspec
     gem install quest<VERSION>.gem
